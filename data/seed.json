@@ -863,6 +863,45 @@
           "manage_inventory": true
         }
       ]
+    },
+    {
+      "title": "Dragon Plant",
+      "subtitle": null,
+      "description": "Dracaena draco, the Canary Islands dragon tree or drago, is a subtropical tree in the genus Dracaena, native to the Canary Islands, Cape Verde, Madeira, western Morocco, and is thought to be introduced in the Azores. Its closest living relative is the dragon blood tree of Socotra, Dracaena cinnabari.",
+      "handle": "dragon-plant",
+      "is_giftcard": false,
+      "weight": 400,
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0417/7140/1380/articles/Plant-Guides-Featured-Image-2_1000x.png"
+      ],
+      "options": [
+        {
+          "title": "Size",
+          "values": ["One Size"]
+        }
+      ],
+      "variants": [
+        {
+          "title": "One Size",
+          "prices": [
+            {
+              "currency_code": "eur",
+              "amount": 1000
+            },
+            {
+              "currency_code": "usd",
+              "amount": 1200
+            }
+          ],
+          "options": [
+            {
+              "value": "One Size"
+            }
+          ],
+          "inventory_quantity": 100,
+          "manage_inventory": true
+        }
+      ]
     }
   ]
 }
