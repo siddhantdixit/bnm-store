@@ -58,7 +58,7 @@ Before you start with the tutorial make sure you have
 Clone the repo using the following command
 
 ```shell
-git clone https://github.com/siddhantdixit/my-medusa-store.git
+git clone https://github.com/siddhantdixit/bnm-store.git
 ```
 Seed Data In Backend Repo
 ```
@@ -68,7 +68,7 @@ medusa seed -f ./data/seed.json
 Run to view in localhost.
 
 ```shell
-cd my-medusa-store
+cd bnm-store
 npm install && npm run dev
 ```
 
